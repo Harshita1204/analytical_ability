@@ -158,18 +158,4 @@ Number of proper subsets
     = 2^n − 1
 
 
-------------------------------------------------------------
 
-IMPORTANT SHORT NOTES
----------------------
-
-• Use Permutation when arrangement matters  
-• Use Combination when selection matters  
-• Circular seating → use (n − 1)!  
-• Identical objects → divide by factorial  
-• Remember symmetry rule: nCr = nC(n − r)  
-
-------------------------------------------------------------
-
-END OF NOTES
-------------------------------------------------------------
